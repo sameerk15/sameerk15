@@ -3,20 +3,21 @@
 
 - 🔭 I’m currently working on **Research paper on Conversational AI.**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, Computer Vision, Data Vizualization**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, Computer Vision, Data Vizualization and applying knowledge in projects.**
 
-- 📝 I regularly write Data Science articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 👨‍💻 Kaggle 2x Expert profile: [https://www.kaggle.com/sameer1502](https://www.kaggle.com/sameer1502)
+
+- 📝 Machine Hack(ML Hackathons) profile : [https://machinehack.com/user/profile/ui/6149e2e4c2064666814ae78d](https://machinehack.com/user/profile/ui/6149e2e4c2064666814ae78d)
 
 - 📫 How to reach me **sameerkumar21635@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📄 Medium(Data Science articles) profile : [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sameer-kumar-20988b1a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-kumar-20988b1a6/" height="30" width="40" /></a>
 <a href="https://kaggle.com/sameer1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sameer1502" height="30" width="40" /></a>
+<a href="https://instagram.com/data_science_guy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="data_science_guy" height="30" width="40" /></a>
 <a href="https://medium.com/@sameerkumar21635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sameerkumar21635" height="30" width="40" /></a>
 </p>
 
