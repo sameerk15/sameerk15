@@ -7,11 +7,11 @@
 
 - 👨‍💻 Kaggle 2x Expert profile: [Kaggle](https://www.kaggle.com/sameer1502)
 
-- 📝 Machine Hack(ML Hackathons) profile : [https://machinehack.com/user/profile/ui/6149e2e4c2064666814ae78d](https://machinehack.com/user/profile/ui/6149e2e4c2064666814ae78d)
+- 📝 Machine Hack(ML Hackathons) profile : [Machine Hack](https://machinehack.com/user/profile/ui/6149e2e4c2064666814ae78d)
 
 - 📫 How to reach me **sameerkumar21635@gmail.com**
 
-- 📄 Medium(Data Science articles) profile : [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📄 Medium(Data Science articles) profile : [Meduim](https://medium.com/me/stories/public)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
