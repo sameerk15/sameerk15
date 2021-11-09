@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sameer-kumar-20988b1a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-kumar-20988b1a6/" height="30" width="40" /></a>
 <a href="https://kaggle.com/sameer1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sameer1502" height="30" width="40" /></a>
-<a href="https://instagram.com/data_science_guy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="data_science_guy" height="30" width="40" /></a>
+
 <a href="https://medium.com/@sameerkumar21635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sameerkumar21635" height="30" width="40" /></a>
 </p>
 
