@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sameerkumar21635@gmail.com**
 
-- 📄 Medium(Data Science articles) profile : [Meduim](https://medium.com/me/stories/public)
+- 📄 Medium(Data Science articles) profile : [Medium](https://medium.com/me/stories/public)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
