@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, Computer Vision, Data Vizualization and applying knowledge in projects.**
 
-- 👨‍💻 Kaggle 2x Expert profile: [Kaggle](https://www.kaggle.com/sameer1502)
+- 👨‍💻 Kaggle Notebooks Master profile: [Kaggle](https://www.kaggle.com/sameer1502)
 
 - 📝 Machine Hack(ML Hackathons) profile : [Machine Hack](https://machinehack.com/user/profile/ui/6149e2e4c2064666814ae78d)
 
