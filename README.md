@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Kumar😁</h1>
-<h3 align="center">A 3rd year B.Tech student interested in the field of Data Science. I am currently working as a ML research intern at SCAAI. I am also working on a Consultancy ML project with Philips. I have published many Data Science articles on Medium(Analytics Vidhya). I am also a Kaggle Notebooks Master.</h3>
+<h3 align="center">A final year B.Tech student interested in the field of Data Science. I am currently working as a ML research intern at SCAAI. I am also working on a Consultancy ML project with Philips. I have published many Data Science articles on Medium(Analytics Vidhya). I am also a Kaggle Notebooks Master.</h3>
 
 - 🔭 I’m currently working on **Research paper on Conversational AI.**
 
